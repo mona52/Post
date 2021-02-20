@@ -10,6 +10,9 @@ public class Post {
     private LikesInfo likesInfo;
     private RepostsInfo repostsInfo;
     private ViewsInfo viewsInfo;
+    private boolean friendsOnly;
+    private DonatInfo donatInfo;
+    private boolean markedAsAds;
 
     public int getId() {
         return id;
