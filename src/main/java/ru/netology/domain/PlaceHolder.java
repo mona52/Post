@@ -8,6 +8,5 @@ public class PlaceHolder {
     public void setText(String text) {
         this.text = text;
     }
-
     private String text;
 }
